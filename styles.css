@@ -1,0 +1,51 @@
+body {
+    color: Black;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+}
+
+img {
+    height: 350px;
+    width: 300px;
+}
+
+h1 {
+    font-size: 50px;
+}
+.start {
+    font-size: 50px;
+    background-color: #FFB6C1;
+    font-weight: 800;
+    padding: 20px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+.Part-two-yes {
+    font-size: 50px;
+    font-weight: 800;
+    background-color:#FFB6C1;
+}
+
+
+ .Part-two-no{
+    font-size: 50px;
+    background-color: #FFB6C1;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+
+.Ending-yes {
+    font-size: 50px;
+    font-weight: 800;
+    background-color: #FFB6C1;
+}
+
+.lastImage{
+    width:350px;
+}
+
